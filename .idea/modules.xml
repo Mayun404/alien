@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mat_practic/.idea/ac.iml" filepath="$PROJECT_DIR$/../mat_practic/.idea/ac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/alien.iml" filepath="$PROJECT_DIR$/.idea/alien.iml" />
+      <module fileurl="file://E:/ML/classification-master/.idea/classification-master.iml" filepath="E:/ML/classification-master/.idea/classification-master.iml" />
+      <module fileurl="file://E:/ML/dpcas-master/.idea/dpcas-master.iml" filepath="E:/ML/dpcas-master/.idea/dpcas-master.iml" />
+      <module fileurl="file://E:/ML/handpose_x-master/.idea/handpose_x-master.iml" filepath="E:/ML/handpose_x-master/.idea/handpose_x-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pra_conda/.idea/pra_conda.iml" filepath="$PROJECT_DIR$/../pra_conda/.idea/pra_conda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pra_ml/.idea/pra_ml.iml" filepath="$PROJECT_DIR$/../pra_ml/.idea/pra_ml.iml" />
+      <module fileurl="file://E:/ML/yolo_v3-master/.idea/yolo_v3-master.iml" filepath="E:/ML/yolo_v3-master/.idea/yolo_v3-master.iml" />
+      <module fileurl="file://E:/software/yolov5-6.0/.idea/yolov5-6.0.iml" filepath="E:/software/yolov5-6.0/.idea/yolov5-6.0.iml" />
+    </modules>
+  </component>
+</project>

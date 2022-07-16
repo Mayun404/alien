@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (alien)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ac" />
+    <orderEntry type="module" module-name="pra_conda" />
+    <orderEntry type="module" module-name="pra_ml" />
+    <orderEntry type="module" module-name="yolov5-6.0" />
+    <orderEntry type="module" module-name="yolo_v3-master" />
+    <orderEntry type="module" module-name="handpose_x-master" />
+    <orderEntry type="module" module-name="dpcas-master" />
+    <orderEntry type="module" module-name="classification-master" />
+  </component>
+</module>
