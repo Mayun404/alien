@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="034768d4-1539-4b96-a69e-48117c751bbd" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="alien" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="b1ad8327-6cb4-48c1-8ea1-2964a081d681" />
+  <component name="ProjectId" id="23AstvvifYGL9p7C8lPHP3FDWjk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/ML/dpcas-master/materials/audio/imagenet_2012" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="pra_conda" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="pra_conda" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ML\dpcas-master\materials\audio\imagenet_2012" />
+      <recent name="E:\ML\classification-master\image" />
+      <recent name="E:\ML\classification-master" />
+      <recent name="E:\ML\classification-master\handpose_x_gesture_v1\000-one" />
+      <recent name="E:\project\pra_conda" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ML\handpose_x-master\vedio" />
+      <recent name="E:\ML\yolo_v3-master\weights-yolov3-hand" />
+      <recent name="E:\software\yolov5-6.0" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="inference (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="classification-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/ML/classification-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/ML/classification-master/inference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="handpose_x-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/ML/handpose_x-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/ML/handpose_x-master/inference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inference2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="classification-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/ML/classification-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/ML/classification-master/inference2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dpcas-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/ML/dpcas-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/ML/dpcas-master/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolo_v3-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/ML/yolo_v3-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/ML/yolo_v3-master/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.inference" />
+      <item itemvalue="Python.inference (1)" />
+      <item itemvalue="Python.inference2" />
+      <item itemvalue="Python.predict" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.inference2" />
+        <item itemvalue="Python.inference" />
+        <item itemvalue="Python.inference (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="034768d4-1539-4b96-a69e-48117c751bbd" name="默认更改列表" comment="" />
+      <created>1641974485337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641974485337</updated>
+      <workItem from="1641974486633" duration="2206000" />
+      <workItem from="1641992121377" duration="9286000" />
+      <workItem from="1642174089636" duration="4752000" />
+      <workItem from="1642183057641" duration="581000" />
+      <workItem from="1642296906538" duration="2914000" />
+      <workItem from="1642339835359" duration="4406000" />
+      <workItem from="1642423188856" duration="10522000" />
+      <workItem from="1642470336425" duration="804000" />
+      <workItem from="1642473163640" duration="1596000" />
+      <workItem from="1642608565733" duration="391000" />
+      <workItem from="1642643509241" duration="1433000" />
+      <workItem from="1642666116393" duration="11587000" />
+      <workItem from="1642775551194" duration="581000" />
+      <workItem from="1642815305417" duration="560000" />
+      <workItem from="1642834818625" duration="6303000" />
+      <workItem from="1642931123537" duration="599000" />
+      <workItem from="1643907904033" duration="702000" />
+      <workItem from="1643968373226" duration="608000" />
+      <workItem from="1644070626609" duration="1219000" />
+      <workItem from="1644165573321" duration="603000" />
+      <workItem from="1646725939012" duration="322000" />
+      <workItem from="1646726286975" duration="6722000" />
+      <workItem from="1646793605746" duration="7197000" />
+      <workItem from="1646803639185" duration="762000" />
+      <workItem from="1646807752886" duration="9201000" />
+      <workItem from="1646821131367" duration="8236000" />
+      <workItem from="1646877015310" duration="3129000" />
+      <workItem from="1646885116508" duration="8005000" />
+      <workItem from="1646906325702" duration="6874000" />
+      <workItem from="1646917813714" duration="226000" />
+      <workItem from="1646918057114" duration="43000" />
+      <workItem from="1646918145046" duration="75000" />
+      <workItem from="1646918260025" duration="188000" />
+      <workItem from="1646918497173" duration="2192000" />
+      <workItem from="1646921711009" duration="4795000" />
+      <workItem from="1646961244943" duration="5758000" />
+      <workItem from="1646967896691" duration="163000" />
+      <workItem from="1646968098632" duration="330000" />
+      <workItem from="1646968504671" duration="741000" />
+      <workItem from="1646969320753" duration="1792000" />
+      <workItem from="1647068472795" duration="2202000" />
+      <workItem from="1647071850555" duration="9857000" />
+      <workItem from="1647140999237" duration="1885000" />
+      <workItem from="1648212645707" duration="480000" />
+      <workItem from="1648977710701" duration="12958000" />
+      <workItem from="1649837381275" duration="1723000" />
+      <workItem from="1649932869103" duration="8687000" />
+      <workItem from="1650005164876" duration="1317000" />
+      <workItem from="1650097289719" duration="9435000" />
+      <workItem from="1650266155887" duration="780000" />
+      <workItem from="1650267080834" duration="1441000" />
+      <workItem from="1650270358240" duration="16412000" />
+      <workItem from="1650338951231" duration="1967000" />
+      <workItem from="1650349015362" duration="2249000" />
+      <workItem from="1650465655752" duration="6154000" />
+      <workItem from="1650551322334" duration="5229000" />
+      <workItem from="1650559656977" duration="9567000" />
+      <workItem from="1650682031937" duration="1777000" />
+      <workItem from="1650684641639" duration="356000" />
+      <workItem from="1650685425894" duration="5354000" />
+      <workItem from="1650703514097" duration="15906000" />
+      <workItem from="1650764672857" duration="49469000" />
+      <workItem from="1650893028733" duration="6959000" />
+      <workItem from="1650908963137" duration="377000" />
+      <workItem from="1650909533907" duration="5811000" />
+      <workItem from="1650940881856" duration="1613000" />
+      <workItem from="1650944648939" duration="4248000" />
+      <workItem from="1652181155977" duration="1390000" />
+      <workItem from="1652901518199" duration="1380000" />
+      <workItem from="1652941522285" duration="8589000" />
+      <workItem from="1654168026423" duration="3385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650728823338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="176" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1650728823338" />
+    <state x="609" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647097562736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="609" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1647097562736" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1654173483237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1654173483237" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1650811004498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1650811004498" />
+    <state width="1493" height="381" key="GridCell.Tab.-1.bottom" timestamp="1646923757382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="381" key="GridCell.Tab.-1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646923757382" />
+    <state width="1493" height="381" key="GridCell.Tab.-1.center" timestamp="1646923757382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="381" key="GridCell.Tab.-1.center/0.0.1536.824@0.0.1536.824" timestamp="1646923757382" />
+    <state width="1493" height="381" key="GridCell.Tab.-1.left" timestamp="1646923757382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="381" key="GridCell.Tab.-1.left/0.0.1536.824@0.0.1536.824" timestamp="1646923757382" />
+    <state width="1493" height="381" key="GridCell.Tab.-1.right" timestamp="1646923757382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="381" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1646923757382" />
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom" timestamp="1654173848767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654173848767" />
+    <state width="1493" height="140" key="GridCell.Tab.0.center" timestamp="1654173848767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1654173848767" />
+    <state width="1493" height="140" key="GridCell.Tab.0.left" timestamp="1654173848766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1654173848766" />
+    <state width="1493" height="140" key="GridCell.Tab.0.right" timestamp="1654173848767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1654173848767" />
+    <state width="1493" height="381" key="GridCell.Tab.1.bottom" timestamp="1646923739623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="381" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646923739623" />
+    <state width="1493" height="381" key="GridCell.Tab.1.center" timestamp="1646923739623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="381" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1646923739623" />
+    <state width="1493" height="381" key="GridCell.Tab.1.left" timestamp="1646923739623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="381" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1646923739623" />
+    <state width="1493" height="381" key="GridCell.Tab.1.right" timestamp="1646923739623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="381" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1646923739623" />
+    <state x="76" y="48" key="SettingsEditor" timestamp="1646801579753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="76" y="48" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1646801579753" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../pra_conda/entire/train.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../pra_conda/pra.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/ML/dpcas-master/applications/handpose_local_app.py</url>
+          <line>381</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/alien$nn_maxpool.coverage" NAME="nn_maxpool Coverage Results" MODIFIED="1642436785306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/nn" />
+    <SUITE FILE_PATH="coverage/alien$test.coverage" NAME="test Coverage Results" MODIFIED="1642843639644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/entire" />
+    <SUITE FILE_PATH="coverage/alien$main.coverage" NAME="main Coverage Results" MODIFIED="1654173334664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/ML/dpcas-master" />
+    <SUITE FILE_PATH="coverage/alien$tb.coverage" NAME="tb Coverage Results" MODIFIED="1642004573323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/tensorboard" />
+    <SUITE FILE_PATH="coverage/alien$nn_conv.coverage" NAME="nn_conv Coverage Results" MODIFIED="1642429721667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/nn" />
+    <SUITE FILE_PATH="coverage/alien$inference.coverage" NAME="inference Coverage Results" MODIFIED="1650867134722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/ML/handpose_x-master" />
+    <SUITE FILE_PATH="coverage/alien$show_yolo_anno__1_.coverage" NAME="show_yolo_anno Coverage Results" MODIFIED="1648985308870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/ML/yolo_v3-master" />
+    <SUITE FILE_PATH="coverage/alien$model2onnx.coverage" NAME="model2onnx Coverage Results" MODIFIED="1646826056260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/ML/handpose_x-master" />
+    <SUITE FILE_PATH="coverage/alien$detect__1_.coverage" NAME="detect Coverage Results" MODIFIED="1646747207450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/software/yolov5-6.0" />
+    <SUITE FILE_PATH="coverage/alien$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1642340851809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/transform" />
+    <SUITE FILE_PATH="coverage/alien$nn_relu.coverage" NAME="nn_relu Coverage Results" MODIFIED="1642438868977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/nn" />
+    <SUITE FILE_PATH="coverage/alien$train.coverage" NAME="train Coverage Results" MODIFIED="1650728777086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/software/yolov5-6.0" />
+    <SUITE FILE_PATH="coverage/alien$predict.coverage" NAME="predict Coverage Results" MODIFIED="1650891841801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/ML/yolo_v3-master" />
+    <SUITE FILE_PATH="coverage/alien$nn_conv2d.coverage" NAME="nn_conv2d Coverage Results" MODIFIED="1642435883859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/nn" />
+    <SUITE FILE_PATH="coverage/alien$show_yolo_anno.coverage" NAME="show_yolo_anno Coverage Results" MODIFIED="1650728550092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/ML/yolo_v3-master" />
+    <SUITE FILE_PATH="coverage/alien$train_gpu.coverage" NAME="train_gpu Coverage Results" MODIFIED="1642838109239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/entire" />
+    <SUITE FILE_PATH="coverage/alien$detect.coverage" NAME="detect Coverage Results" MODIFIED="1646808733358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/software/yolov5-6.0" />
+    <SUITE FILE_PATH="coverage/alien$dataloader.coverage" NAME="dataloader Coverage Results" MODIFIED="1642343210865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/dataloader" />
+    <SUITE FILE_PATH="coverage/alien$f_demo.coverage" NAME="f_demo Coverage Results" MODIFIED="1641976701842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda" />
+    <SUITE FILE_PATH="coverage/alien$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1650814614262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/ML/classification-master" />
+    <SUITE FILE_PATH="coverage/alien$inference2.coverage" NAME="inference2 Coverage Results" MODIFIED="1650891623531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/ML/classification-master" />
+    <SUITE FILE_PATH="coverage/alien$transforms.coverage" NAME="transforms Coverage Results" MODIFIED="1642005737545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/tensorboard" />
+    <SUITE FILE_PATH="coverage/alien$nn_module.coverage" NAME="nn_module Coverage Results" MODIFIED="1642345766829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/nn" />
+    <SUITE FILE_PATH="coverage/alien$nn_seq.coverage" NAME="nn_seq Coverage Results" MODIFIED="1642666300191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/nn" />
+    <SUITE FILE_PATH="coverage/alien$inference__1_.coverage" NAME="inference (1) Coverage Results" MODIFIED="1650825155702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/ML/classification-master" />
+    <SUITE FILE_PATH="coverage/alien$save_as_file.coverage" NAME="save_as_file Coverage Results" MODIFIED="1641994312768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda" />
+    <SUITE FILE_PATH="coverage/alien$pra.coverage" NAME="pra Coverage Results" MODIFIED="1650556566865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda" />
+    <SUITE FILE_PATH="coverage/alien$model.coverage" NAME="model Coverage Results" MODIFIED="1642692683309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pra_conda/entire" />
+  </component>
+</project>
